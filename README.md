@@ -1,8 +1,7 @@
 # 🌐 Scalable Calculator Deployment with AWS ALB & Auto Scaling
 
-Dynamic Django calculator web application hosted on AWS using Application Load Balancer (ALB) and Auto Scaling Group (ASG), demonstrating high availability, traffic distribution, and fault-tolerant cloud architecture.
-
-This setup distributes incoming traffic across multiple EC2 instances and automatically replaces unhealthy instances to improve reliability and scalability.
+Dynamic Django calculator web application deployed on AWS using ALB and Auto Scaling, demonstrating high availability, traffic distribution, and scalable cloud deployment.
+Incoming traffic is distributed across multiple EC2 instances, while unhealthy instances are automatically replaced for improved reliability.
 
 ---
 
